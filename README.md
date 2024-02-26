@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src="https://miladingavric.com/wp-content/uploads/2024/02/Join-me-in-making.gif"  />
+  <img height="350" src="https://miladingavric.com/wp-content/uploads/2024/02/Join-me-in-making.gif"  />
 </div>
 
 ###
@@ -9,9 +9,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miladingavric&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false" height="115" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=miladingavric&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5" height="115" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miladingavric&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" height="115" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=miladingavric&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false" height="96" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=miladingavric&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5" height="96" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miladingavric&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" height="96" alt="languages graph"  />
 </div>
 
 ###
