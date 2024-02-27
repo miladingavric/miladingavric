@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="350" src="https://miladingavric.com/wp-content/uploads/2024/02/Join-me-in-making.gif"  />
+  <img height="400" src="https://miladingavric.com/wp-content/uploads/2024/02/join-me-in-writing-some-code.gif"  />
 </div>
 
 ###
